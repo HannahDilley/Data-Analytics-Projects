@@ -1,2 +1,2 @@
 # Projects
-Some examples of report writing and presentation.
+Examples of report writing and presentation.
