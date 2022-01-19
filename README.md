@@ -1,2 +1,2 @@
-# Projects
-Data Analytics Projects
+# Data Analytics Projects
+The Career Foundry Data Analytics course spanned 9 month (800 hours) and covered a range of topics including statistical analysis and visualisation using Excel; visualisations and storytelling in Tableau; setting up a database and interrogating using SQL querying; coding in Python to carry out analysis and generate plots; understanding predictive analysis and investigating regression, cluster and time-series analysis.
